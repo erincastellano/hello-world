@@ -1,2 +1,2 @@
 # hello-world
-my name is erin. i am completely new to this.
+my name is erin. 
